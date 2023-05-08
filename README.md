@@ -1,7 +1,16 @@
-# Responsive Website Restaurant
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
-### Responsive Website Restaurant
-Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
+# Responsive Restaurant Wesbsite
+### BY TALO
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+<a href="https://alphaotuken.github.io/Responsive-Restaurant-Website/"><strong>➥ Live Demo</strong></a>
+
+The restaurant website boasts an attractive design that is fully responsive. It features a well-crafted header and includes sections for Home, About, Services, Menu, App, Contact, and a Footer. Moreover, the website is equipped with a fully functional light and dark mode, which is optimized for mobile devices first and then for desktops.
+
+![preview img](/preview.png)
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is ** Free to use **
